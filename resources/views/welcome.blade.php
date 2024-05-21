@@ -27,7 +27,7 @@
                             <div class="flex items-center flex-shrink-0 ml-4 lg:ml-0">
                                 <a href="#" title="" class="inline-flex rounded focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900">
                                     <span class="sr-only"> Rareblocks logo </span>
-                                    <img class="w-auto h-8" src="https://cdn.rareblocks.xyz/collection/clarity-ecommerce/images/logo.svg" alt="" />
+                                    <img class="w-auto h-8" src="" alt="The Grocery Store" />
                                 </a>
                             </div>
 
@@ -61,7 +61,7 @@
                                         <svg class="w-6 h-6" xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                                             <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M16 11V7a4 4 0 00-8 0v4M5 9h14l1 12H4L5 9z" />
                                         </svg>
-                                        <span class="inline-flex items-center justify-center w-5 h-5 ml-1 text-xs font-bold text-white bg-gray-600 rounded-full"> 2 </span>
+                                        <span class="inline-flex items-center justify-center w-5 h-5 ml-1 text-xs font-bold text-white bg-gray-600 rounded-full"> </span>
                                     </button>
                                 </div>
                             </div>
@@ -72,24 +72,24 @@
 
             <div class="relative pt-12 bg-gray-50 sm:pt-16 lg:py-36 xl:py-48">
                 <div class="absolute inset-0 hidden lg:block">
-                    <img class="object-cover object-right w-full h-full" src="" alt="" />
+                    <img class="object-cover object-right w-full h-full" src="{{ asset('ui-data/images/background-image-3.jpg') }}" alt="" />
                 </div>
 
                 <div class="absolute inset-x-0 top-0 hidden lg:block">
                     <div class="py-5">
                         <div class="px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
                             <nav class="flex items-center space-x-8">
-                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> All Brands </a>
+                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Get All </a>
 
-                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Men </a>
+                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Dairy </a>
 
-                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Women </a>
+                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Vegetables </a>
 
-                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Accessories </a>
+                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Fruits </a>
 
-                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Sports </a>
+                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Spices </a>
 
-                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Kids </a>
+                                <a href="#" title="" class="text-sm font-medium text-gray-900 transition-all duration-200 rounded hover:text-gray-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-gray-900"> Frozen Foods </a>
                             </nav>
                         </div>
                     </div>
@@ -97,8 +97,8 @@
 
                 <div class="relative px-4 mx-auto sm:px-6 lg:px-8 max-w-7xl">
                     <div class="max-w-lg mx-auto text-center lg:mx-0 lg:max-w-md lg:text-left">
-                        <p class="text-base font-bold text-gray-600">Use “FIT40” coupon to get 40% flat discount</p>
-                        <h1 class="mt-3 text-4xl font-bold text-gray-900 sm:mt-8 sm:text-5xl xl:text-7xl">Fitness kits that help you keep fit.</h1>
+                        <p class="text-base font-bold text-gray-600">Get a discount of 40 Ghana Cedis for mobile money purchase</p></p>
+                        <h1 class="mt-3 text-4xl font-bold text-gray-900 sm:mt-8 sm:text-5xl xl:text-7xl">Order your Groceries online here</h1>
 
                         <div class="mt-8 sm:mt-12">
                             <a
